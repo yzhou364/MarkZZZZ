@@ -5,7 +5,7 @@
 > Nice to see you here. <br>
 > Welcome！
 
-:us Madison | WI<br>
-:cn Nanjing | JS<br>
+:U.S Madison | WI <br>
+:C.N Nanjing | JS <br>
 :bookmark_tabs: OR Scientist <br>
-:mortar_board: Applied Data Science<br>
+:mortar_board: Applied Data Science <br>
